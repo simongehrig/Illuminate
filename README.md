@@ -1,2 +1,2 @@
-# test
-nothin' special
+# Illuminate
+WS281x Effects Library & Web Interface
